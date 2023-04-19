@@ -1,0 +1,19 @@
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Manage_Library.csproj.AssemblyReference.cache
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Manage_Library.csproj.SuggestedBindingRedirects.cache
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormPublishingCompany.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormUpdateAuthor.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormUpdateCategoryBook.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormMain.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormLogin.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormReaders.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormPayment.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormManageBook.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormStatisticalReaders.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormStatisticalBook.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormSearchReaders.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormSearchBook.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.Properties.Resources.resources
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Manage_Library.csproj.GenerateResource.cache
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Manage_Library.csproj.CoreCompileInputs.cache
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan ly thu vien.exe
+D:\University\HK2(Năm 2)\LTGD\Manage_Library\Quan ly thu vien\obj\Debug\Quan ly thu vien.pdb

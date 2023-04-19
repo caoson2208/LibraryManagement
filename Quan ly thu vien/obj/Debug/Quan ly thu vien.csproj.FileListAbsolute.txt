@@ -1,0 +1,87 @@
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.exe.config
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.exe
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.pdb
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.dll
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.Interfaces.dll
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.System.Drawing.dll
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.xml
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.AssemblyReference.cache
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.SuggestedBindingRedirects.cache
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormNhaXB.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormCapNhatTacGia.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormCapNhatTheLoaiSach.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormChinh.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormDangNhap.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormDocGia.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormMuonTra.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormQuanLySach.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormThongKeDocGia.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormThongKeSach.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormTimKiemDocGia.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.Properties.Resources.resources
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.GenerateResource.cache
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.CoreCompileInputs.cache
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.CopyComplete
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.exe
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.pdb
+D:\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormTimKiemSach.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.exe.config
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.exe
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.pdb
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.dll
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.Interfaces.dll
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.System.Drawing.dll
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.xml
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.AssemblyReference.cache
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.SuggestedBindingRedirects.cache
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormNhaXB.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormCapNhatTacGia.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormCapNhatTheLoaiSach.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormChinh.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormDangNhap.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormDocGia.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormMuonTra.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormQuanLySach.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormThongKeDocGia.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormThongKeSach.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormTimKiemDocGia.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormTimKiemSach.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.Properties.Resources.resources
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.GenerateResource.cache
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.CoreCompileInputs.cache
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.CopyComplete
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.exe
+D:\University\HK2(Năm 2)\LTGD\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.pdb
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.exe.config
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.exe
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\Quan ly thu vien.pdb
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.dll
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.Interfaces.dll
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.System.Drawing.dll
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\EPPlus.xml
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.AssemblyReference.cache
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.SuggestedBindingRedirects.cache
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormNhaXB.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormCapNhatTacGia.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormCapNhatTheLoaiSach.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormChinh.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormDangNhap.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormDocGia.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormMuonTra.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormQuanLySach.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormThongKeDocGia.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormThongKeSach.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormTimKiemDocGia.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.FormTimKiemSach.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan_ly_thu_vien.Properties.Resources.resources
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.GenerateResource.cache
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.CoreCompileInputs.cache
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.csproj.CopyComplete
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.exe
+D:\University\HK2(Năm 2)\Quan ly thu vien\Quan ly thu vien\obj\Debug\Quan ly thu vien.pdb
